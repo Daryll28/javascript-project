@@ -1,0 +1,13 @@
+#products{
+    flex-wrap: wrap;
+}
+
+#products img {
+    height: 380px;
+    object-fit: cover;
+}
+.card{
+    width: calc(60% / 2);
+    border: 1px solid black;
+    
+}
